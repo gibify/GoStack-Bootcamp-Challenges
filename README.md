@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="gym-manager-template" src="https://github.com/gibifyOfficial/GymManager/blob/master/public/assets/gym-manager.template.png" 600 />
+   <img alt="https://github.com/gibifyOfficial/GoStack-Bootcamp-Challenges/blob/master/assets/gosatck.jpg" 1000 />
  </h1></n>
 
 # CHALLENGES
