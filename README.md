@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img  src="https://github.com/gibifyOfficial/GoStack-Bootcamp-Challenges/blob/master/assets/gosatck.jpg" 1000 />
+   <img  src="https://github.com/gibifyOfficial/GoStack-Bootcamp-Challenges/blob/master/assets/gostack%20bootcamp.png" />
  </h1></n>
 
 # CHALLENGES
