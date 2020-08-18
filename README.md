@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img  src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+   <img  src="https://github.com/gibify/GoStack-Bootcamp-Challenges/blob/master/assets/gostack.png" />
  </h1></n>
 
 # CHALLENGES - DESAFIOS
