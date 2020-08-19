@@ -10,7 +10,7 @@
 
 ## Level 2
 * [Fundamentos do NodeJS](https://github.com/gibify/challenge-05-gostack)
-* [DataBase e Upload de arquivos no NodeJS]()
+* [DataBase e Upload de arquivos no NodeJS](https://github.com/gibify/challenge-06-gostack)
 
 ## Level 3
 * [Fundamentos do ReactJS](https://github.com/gibify/challenge-07-gostack)
